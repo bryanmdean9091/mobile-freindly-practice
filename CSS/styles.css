@@ -1,0 +1,38 @@
+.title{
+    text-align: center;
+    color:white;
+    margin-top: -300px;
+    font-size: 300%;
+    font-family: sans-serif;
+}
+
+.section{
+    margin-top: 350px;
+}
+
+h2{
+    margin-left: 100px;
+    color: blue;
+    font-family: serif;
+}
+
+.p-1{
+    margin-left: 100Px;
+    margin-right: 100px;
+}
+
+h3{
+    margin-right: 100px;
+    color: blue;
+    font-size: 140%;
+    font-family: serif;
+    margin-left: 1000px;
+}
+
+.p-2{
+    margin-left: 100px;
+    margin-right: 100px ;
+
+}
+
+
